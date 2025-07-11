@@ -27,4 +27,4 @@ I’m a results-oriented aspiring Business Analyst with a solid background in fu
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colnat412&layout=compact&theme=radical
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colnat412&layout=compact&theme=radical)
