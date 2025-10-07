@@ -1,7 +1,11 @@
 ## Hi there 👋, I'm Kim Tho
-🚀 Software Engineer | 💻 Business Analyst | 🌏 Vietnam
+🚀 Software Engineer  |🧩 Software Tester| 💻 Business Analyst | 🌏 Vietnam 
 
-I’m a results-oriented aspiring Business Analyst with a solid background in full-stack development and hands-on experience in building scalable web applications and real-time systems. This technical foundation enables me to effectively bridge the gap between business needs and technical solutions. I am passionate about analyzing requirements, optimizing processes, and collaborating cross-functionally to deliver impactful, user-centric digital products. Continuously improving both my technical and analytical skill sets, I aim to drive value through data-informed decision making and clear communication.
+I'm a results-oriented aspiring **Business Analyst** and **Software Tester** with a solid background in **full-stack development** and hands-on experience in building scalable web applications and real-time systems.  
+This technical foundation enables me to effectively bridge the gap between **business needs, quality assurance, and technical solutions**.  
+
+I’m passionate about **analyzing requirements**, **designing and executing test cases**, and **collaborating cross-functionally** to deliver high-quality, user-centric digital products.  
+Continuously improving both my **analytical** and **testing** skill sets, I aim to drive value through **data-informed decision-making, effective communication,** and **a commitment to product quality**.
 
 ## 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mautho/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimtho6328@gmail.com)
